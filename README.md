@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm Nils.<br> I'm a Developer from Germany.<br><br>#java, #kotlin, #python, #webdesign</samp>
+  <samp>Hello there. I'm Nils.<br> I'm a Developer from Germany.<br><br>#java, #kotlin, #python, #c-sharp</samp>
   <br>
   <br>
   <br>
