@@ -1,8 +1,6 @@
 # Hey there 👋, I'm Nils!
 
-![Profile views](https://gpvc.arturio.dev/7rebux)
-[![GitHub followers](https://img.shields.io/github/followers/7rebux.svg?label=Followers)](https://github.com/7rebux?tab=followers)
-![Discord](https://img.shields.io/badge/Discord-Rebux%239211-blueviolet)
+![Discord](https://img.shields.io/badge/Discord-rebux777-blueviolet)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=7rebux&theme=ayu-mirage&show_icons=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
 
