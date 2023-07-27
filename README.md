@@ -10,6 +10,6 @@
 
 [![Languages](https://skillicons.dev/icons?i=java,kotlin,python,mysql,c,ts,js,html,css,sass)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,react,electron,flask)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,webpack,react,electron,flask)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=linux,idea,eclipse,vscode,figma,git)](https://skillicons.dev)
