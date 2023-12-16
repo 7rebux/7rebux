@@ -2,7 +2,7 @@
 
 ![Discord](https://img.shields.io/badge/Discord-rebux777-blueviolet)
 
-I'm always open to discussing interesting projects and collaborations. Feel free to reach out to me via email at contact@nilsosswald.de or send me a message on Discord. 
+I'm always open to discussing interesting projects and collaborations. Feel free to reach out to me via email at contact@nilsosswald.de or send me a message on Discord (rebux777). 
 You can also learn more about me on [my portfolio](https://www.nilsosswald.de/).
 
 <br/>
