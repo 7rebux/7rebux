@@ -13,8 +13,8 @@ You can also learn more about me on [my portfolio](https://www.nilsosswald.de/).
 
 ## Languages, Frameworks & Tools
 
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,python,zig,mysql,c,ts,js,html,css,sass)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,mysql,postgres,zig,ts,js,c,html,css,sass,python)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,webpack,react,solidjs,tailwind,electron,graphql,flask)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,next,astro,webpack,react,solidjs,prisma,tailwind,electron,graphql)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=linux,idea,eclipse,vscode,figma,git)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,windows,idea,docker,redis,sentry,vscode,figma,git,gradle,bun)](https://skillicons.dev)
