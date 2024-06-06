@@ -9,8 +9,6 @@ You can also learn more about me on [my portfolio](https://www.nilsosswald.de/).
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=7rebux&theme=ayu-mirage&show_icons=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7rebux&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Languages, Frameworks & Tools
 
 [![Languages](https://skillicons.dev/icons?i=java,kotlin,mysql,postgres,zig,ts,js,c,html,css,sass,python)](https://skillicons.dev)
