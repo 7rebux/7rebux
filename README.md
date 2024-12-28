@@ -1,10 +1,10 @@
 # Hey there 👋, I'm Nils!
 
-I’m a passionate full-stack software engineer based in Germany with an eye for UI/UX design and a love for creating user-friendly interfaces. I thrive on automating complex processes, exploring algorithms, and tackling challenging problem-solving tasks.
+I’m a passionate **full-stack software engineer** based in Germany 🇩🇪 with an eye for **UI/UX design** and a love for creating user-friendly interfaces. I thrive on **automating complex processes** ✨, **exploring algorithms**, and tackling challenging problem-solving tasks.
 
-I have significant experience in diagnosing and fixing bugs in large projects, with a focus on improving the overall quality of codebases. Being fluent in both German and English enables me to collaborate effectively in international teams.
+I have significant experience in **diagnosing and fixing bugs 🪲** in large projects, with a focus on improving the overall quality of codebases. Being fluent in both **German** and **English** enables me to collaborate effectively in international teams.
 
-When I’m not writing code, you’ll probably find me in the gym, exploring new cities around the world, trying out new cuisines as a food enthusiast, or testing out the latest innovative software releases. I’m always excited to discover apps that make life easier!
+When I’m not writing code, you’ll probably find me in the gym 🏋️, exploring new cities around the world ✈️, trying out new cuisines as a food enthusiast 🍛, or testing out the latest innovative software releases. I’m always excited to discover apps that make life easier!
 
 ### 🛠️ Languages, Frameworks & Tools
 
