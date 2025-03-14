@@ -12,9 +12,9 @@ Here are my go-to tools and technologies that I use. While these are my “daily
 
 [![Languages](https://skillicons.dev/icons?i=kotlin,java,ts,js,postgres,sass)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=spring,hibernate,next,react,solidjs,astro,prisma,tailwind,electron)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,hibernate,next,react,svelte,solidjs,tailwind,vitest,electron)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=apple,windows,idea,vscode,docker,sentry,redis,figma,git,gradle,bun,deno)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=cloudflare,vercel,apple,windows,idea,vscode,docker,sentry,redis,figma,git,gradle,bun)](https://skillicons.dev)
 
 ### 🚀 Let's connect!
 
